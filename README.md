@@ -1,7 +1,7 @@
 ### Oiee 👋
 
 
-- 🔭 Trabalho na área de produto/projetos, principalmente na área operacional utilizando de ferramentas como Excel, Power Bi e GCP.
+- 🔭 Trabalho na área de projetos, principalmente na área operacional utilizando de ferramentas como Excel, Power Bi e GCP.
 - 🌱 Atualmente estudando Python, para análise de dados.
 - ✨ Fazendo faculdade de Análise e Desenvolvimento de Sistemas.
 
