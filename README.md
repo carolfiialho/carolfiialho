@@ -2,8 +2,8 @@
 
 - 🧑‍💻 Trabalhando como Assistente de Projetos Especiais III na @Localiza;
 - ✨ Cursando Análise e Desenvolvimento de Sistemas;
-- 💓 Apaixonada por Análise de dados, Power BI, Python, SQL, resolução de problemas e automatizações de rotina;
-- 🔭 Estudando constante para aprimorar meus conhecimentos e desenvolvendo alguns projetinhos para ter meu portifólio.
+- 💓 Apaixonada por Análise de dados, Power BI, Python, SQL, resolução de problemas e automatizações de processos;
+- 🔭 Estudando constantemente para aprimorar meus conhecimentos e desenvolvendo alguns projetinhos para ter meu portifólio.
 
 
 <div> 
