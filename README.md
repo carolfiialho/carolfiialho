@@ -1,7 +1,7 @@
 ### Oiee 👋
 
-- 🧑‍💻 Trabalhando como Assistente de Projetos Especiais III na Localiza&Co;
-- ✨ Cursando Análise e Desenvolvimento de Sistemas;
+- 🧑‍💻 Analista Pleno de Projetos Especiais na Localiza&Co;
+- ✨ Formada em Análise e Desenvolvimento de Sistemas;
 - 💓 Apaixonada por Análise de dados, Power BI, Python, SQL, resolução de problemas e automatizações de processos;
 - 🔭 Estudando constantemente para aprimorar meus conhecimentos e desenvolvendo alguns projetinhos para ter meu portifólio.
 
